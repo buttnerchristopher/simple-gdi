@@ -1,3 +1,7 @@
+//
+// Reference material form Tricks of the Windows Game Programming Gurus.
+// ISBN: 0-672-31361-8
+// 
 // The primary purpose of defining WIN32_LEAN_AND_MEAN is to make the compilation process faster by excluding unnecessary APIs such as Cryptography, DDE, RPC, Shell, and Windows Sockets
 #define WIN32_LEAN_AND_MEAN
 
