@@ -1,0 +1,5 @@
+*.pdb
+*.exe
+.vs/
+Debug/
+Release/
